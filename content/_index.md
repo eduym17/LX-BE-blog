@@ -11,5 +11,6 @@ Estas son mis expectativas:
 - Profundizar en Git y GitHub.
 - Comenzar a aprender acerca de backend.
 - Mejorar mis conocimientos y prácticas sobre frontend.
+- Acercarme a más profesionales del desarrollo web.
 
 🚀
